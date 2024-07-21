@@ -26,7 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rohan-Beta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Beta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-###
-<br clear="both">
+#<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Rohan-Beta/Rohan-Beta/output/snake.svg" alt="Snake animation" />

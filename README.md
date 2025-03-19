@@ -82,7 +82,7 @@ I'm a passionate developer who loves to experiment with new technologies and bui
 
 Here are a few of the projects that I've worked on:
 
-- [Disease Detection](https://github.com/Rohan-Beta/Disease-Detection): Develop a ML model that detect disease based on the symptoms and give some related info and precautions
+- [Disease Detection](https://github.com/Rohan-Beta/Disease-Detection): Develop a ML model that detect disease based on the symptoms and give some related info and precautions and create Web app using React , Express , Flask
   
 - [Stress Prediction](https://github.com/Rohan-Beta/ML/tree/main/StressPrediction): Build a ML model that predict stress based on the user input
   

@@ -74,8 +74,9 @@ I'm a passionate developer who loves to experiment with new technologies and bui
 - Machine Learning
 
 
-
 ## 🛠 Projects
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FjYTB5OHQ0Zm4yODhuanh2c2ZsNWtvMWh0YXV4NDdxbHYxcnRxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
 Here are a few of the projects that I've worked on:
 
@@ -85,14 +86,20 @@ Here are a few of the projects that I've worked on:
 
 ## 🌱 How to Reach Me
 
+<img align="right" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ5am5yMHBkeHBsc2E1ZGp4b3UzenQ3YzE1d295ZTU1cnliMnplcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtCvzTzslugsTWw3eW/giphy.gif" />
+
 - 📧 Email: rohitraha952@gmail.com
 - 🌐 Website: [www.rohitraha.com](https://rohitraha-portfolio.netlify.app/)
 - 💼 LinkedIn: [Rohit Raha](https://www.linkedin.com/in/rohitraha/)
 
 ## 🤝 Contributing
 
+<img align="right" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHA2aDYzZDFnMjVycWo2MWNtY3I0cTh4bWoxdWJyZGI3ZXRhc2E0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" />
+
 If you'd like to contribute to any of my projects, feel free to fork, create a pull request, or just reach out to me. I'd love to collaborate!
 
 ## 📝 Fun Fact
 
-When I'm not coding, you can find me reading tech blogs, or playing video games or outdoor games!
+<img align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlyazFrZ3h1eXZpYmM3dWUyYWs1cHR2NHRya2xybHJwNTYxYmp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2HavnYT1BfENa/giphy.gif" />
+
+When I'm not coding, you can find me playing outdoor or indoor games!

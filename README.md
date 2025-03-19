@@ -6,7 +6,7 @@ I'm a passionate developer who loves to experiment with new technologies and bui
 
 ## 🚀 Technologies & Tools
 
-<img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ0ZmF2aHV5MTBva2RpN2RranluZTBiOWM2a25paGpqdTQwd2MzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp"  />
+<img align="right" height="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRla2VyNDRva2w5dTQ2MmZjZnljbnBvcDN6OGczMmNrdWxtenZtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/51AhgeKNAamtcmcpGx/giphy.gif"  />
 
 - Languages:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -40,7 +40,7 @@ I'm a passionate developer who loves to experiment with new technologies and bui
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
   
-- Tools: Thunder Client, Netlify, Render
+- Tools: 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -50,6 +50,12 @@ I'm a passionate developer who loves to experiment with new technologies and bui
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://www.katk.dev/static/86f2f48b9b0dd900b4892f49f4bbab81/e4f06/logo.png" height="35" alt="Thunder Client logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_J5GGLnWrSqwYzOs_BLABSlWM3XmndNvJA&s" height="35" alt="Thunder Client logo"  />
+  <img width="12" />
+  <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" height="35" alt="Thunder Client logo"  />
   
 - Databases:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -60,6 +66,8 @@ I'm a passionate developer who loves to experiment with new technologies and bui
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 
 ## 📚 Currently Learning
+
+<img align="right" height="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ0ZmF2aHV5MTBva2RpN2RranluZTBiOWM2a25paGpqdTQwd2MzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp"  />
 
 - Web Development
 - App Development

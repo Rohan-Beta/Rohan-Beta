@@ -1,3 +1,5 @@
+<img align="right" height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ5Z3praHdlNnUyaGlxdnNza3dua2lnNDlyNml0d3RobHVpcmR6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+
 # Welcome to Rohan-Beta's GitHub!
 
 Hello World, I'm **Rohit Raha** 👋. Welcome to my GitHub profile!
@@ -80,9 +82,11 @@ I'm a passionate developer who loves to experiment with new technologies and bui
 
 Here are a few of the projects that I've worked on:
 
-- [Project 1](https://github.com/Rohan-Beta/project1): Description of your project here.
-- [Project 2](https://github.com/Rohan-Beta/project2): Description of your project here.
-- [Project 3](https://github.com/Rohan-Beta/project3): Description of your project here.
+- [Disease Detection](https://github.com/Rohan-Beta/Disease-Detection): Develop a ML model that detect disease based on the symptoms and give some related info and precautions
+  
+- [Stress Prediction](https://github.com/Rohan-Beta/ML/tree/main/StressPrediction): Build a ML model that predict stress based on the user input
+  
+- [Shopping Cart](https://github.com/Rohan-Beta/ECommerce_App): Create Shopping App using Flutter , Php , Sql
 
 ## 🌱 How to Reach Me
 

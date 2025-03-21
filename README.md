@@ -75,7 +75,7 @@ I'm a passionate developer who loves to experiment with new technologies and bui
 - App Development
 - Machine Learning
 
-<img width="20" />
+<img width="10" />
 
 ## 🛠 Projects
 
@@ -97,7 +97,7 @@ Here are a few of the projects that I've worked on:
 - 🌐 Website: [www.rohitraha.com](https://rohitraha-portfolio.netlify.app/)
 - 💼 LinkedIn: [Rohit Raha](https://www.linkedin.com/in/rohitraha/)
 
-<img width="20" />
+<img width="10" />
 
 ## 🤝 Contributing
 
@@ -111,6 +111,7 @@ If you'd like to contribute to any of my projects, feel free to fork, create a p
 
 When I'm not coding, you can find me playing outdoor or indoor games!
 
+<img width="6" />
 
 <img height="70" />
 

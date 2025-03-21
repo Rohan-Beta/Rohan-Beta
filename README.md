@@ -74,8 +74,7 @@ I'm a passionate developer who loves to experiment with new technologies and bui
 - Web Development
 - App Development
 - Machine Learning
-
-<img width="10" />
+<img height="4" />
 
 ## 🛠 Projects
 
@@ -97,21 +96,20 @@ Here are a few of the projects that I've worked on:
 - 🌐 Website: [www.rohitraha.com](https://rohitraha-portfolio.netlify.app/)
 - 💼 LinkedIn: [Rohit Raha](https://www.linkedin.com/in/rohitraha/)
 
-<img width="10" />
+<img height="4" />
 
 ## 🤝 Contributing
 
 <img align="right" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHA2aDYzZDFnMjVycWo2MWNtY3I0cTh4bWoxdWJyZGI3ZXRhc2E0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" />
 
 If you'd like to contribute to any of my projects, feel free to fork, create a pull request, or just reach out to me. I'd love to collaborate!
+<img height="4" />
 
 ## 📝 Fun Fact
 
 <img align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlyazFrZ3h1eXZpYmM3dWUyYWs1cHR2NHRya2xybHJwNTYxYmp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2HavnYT1BfENa/giphy.gif" />
 
 When I'm not coding, you can find me playing outdoor or indoor games!
-
-<img width="6" />
 
 <img height="70" />
 

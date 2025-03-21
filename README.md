@@ -75,6 +75,7 @@ I'm a passionate developer who loves to experiment with new technologies and bui
 - App Development
 - Machine Learning
 
+<img width="20" />
 
 ## 🛠 Projects
 
@@ -95,6 +96,8 @@ Here are a few of the projects that I've worked on:
 - 📧 Email: rohitraha952@gmail.com
 - 🌐 Website: [www.rohitraha.com](https://rohitraha-portfolio.netlify.app/)
 - 💼 LinkedIn: [Rohit Raha](https://www.linkedin.com/in/rohitraha/)
+
+<img width="20" />
 
 ## 🤝 Contributing
 

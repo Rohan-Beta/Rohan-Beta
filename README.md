@@ -103,7 +103,7 @@ Here are a few of the projects that I've worked on:
 <img align="right" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHA2aDYzZDFnMjVycWo2MWNtY3I0cTh4bWoxdWJyZGI3ZXRhc2E0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" />
 
 If you'd like to contribute to any of my projects, feel free to fork, create a pull request, or just reach out to me. I'd love to collaborate!
-<img height="8" />
+<img height="16" />
 
 ## 📝 Fun Fact
 

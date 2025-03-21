@@ -107,3 +107,12 @@ If you'd like to contribute to any of my projects, feel free to fork, create a p
 <img align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlyazFrZ3h1eXZpYmM3dWUyYWs1cHR2NHRya2xybHJwNTYxYmp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2HavnYT1BfENa/giphy.gif" />
 
 When I'm not coding, you can find me playing outdoor or indoor games!
+
+
+<img height="70" />
+
+##
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Rohan-Beta/Rohan-Beta/output/snake.svg" alt="Snake animation" />
